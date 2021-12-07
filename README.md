@@ -22,7 +22,7 @@ To use the ListView in this model you'll use the length of the List for `itemCou
 
 
 
-```
+```dart
 List<Item> items = getMockItems();
 
 ...
